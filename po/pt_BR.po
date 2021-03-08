@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/entry\n"
 "POT-Creation-Date: 2014-04-18 14:45+0900\n"
 "PO-Revision-Date: 2021-03-07 01:50+0000\n"
-"Last-Translator: Caio Fontes de Castro <caiofcastro@usp.br>\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/ibus-input-pad/master/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -42,7 +42,7 @@ msgstr "Configurar painel de entrada"
 
 #: ../engine/engine.c:350
 msgid "Hide Input Pad"
-msgstr "Ocultar Painel de Entrada"
+msgstr "Ocultar painel de entrada"
 
 #: ../engine/main.c:56 ../engine/main.c:65 ../engine/main.c:66
 msgid "Input Pad"
