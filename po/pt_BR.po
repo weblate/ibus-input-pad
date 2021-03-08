@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/entry\n"
 "POT-Creation-Date: 2014-04-18 14:45+0900\n"
 "PO-Revision-Date: 2021-03-08 02:01+0000\n"
-"Last-Translator: Caio Fontes de Castro <caiofcastro@usp.br>\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/ibus-input-pad/master/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -46,31 +46,31 @@ msgstr "Ocultar painel de entrada"
 
 #: ../engine/main.c:56 ../engine/main.c:65 ../engine/main.c:66
 msgid "Input Pad"
-msgstr "Painel de Entrada"
+msgstr "Painel de entrada"
 
 #: ../setup/ibus-setup-input-pad.desktop.in.in.h:1
 msgid "IBus Input Pad Setup"
-msgstr ""
+msgstr "Configuração do painel de entrada do IBus"
 
 #: ../setup/ibus-setup-input-pad.desktop.in.in.h:2
 msgid "Set up IBus Input Pad engine"
-msgstr ""
+msgstr "Configure o motor IBus Input Pad"
 
 #: ../setup/setup-gtk.c:360 ../setup/setup-gtk.ui.h:4
 msgid "Default"
-msgstr ""
+msgstr "Padrão"
 
 #: ../setup/setup-gtk.c:394
 msgid "Keyboard _Theme:"
-msgstr ""
+msgstr "_Tema do teclado:"
 
 #: ../setup/setup-gtk.c:397
 msgid "Which theme you choose in kbdui modules"
-msgstr ""
+msgstr "Qual tema usar nos módulos kbdui"
 
 #: ../setup/setup-gtk.ui.h:1
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 #: ../setup/setup-gtk.ui.h:2
 msgid "Custom"
@@ -82,67 +82,67 @@ msgstr "Todos"
 
 #: ../setup/setup-gtk.ui.h:5
 msgid "IBus-Input-Pad Setup"
-msgstr ""
+msgstr "Configuração do painel de entrada do IBus"
 
 #: ../setup/setup-gtk.ui.h:6
 msgid "_Character Table Type:"
-msgstr ""
+msgstr "Tipo de tabela de _caracteres:"
 
 #: ../setup/setup-gtk.ui.h:7
 msgid "Whether you show the character table or not"
-msgstr ""
+msgstr "Se deseja mostrar a tabela de caracteres ou não"
 
 #: ../setup/setup-gtk.ui.h:8
 msgid "_Keyboard Layout Type:"
-msgstr ""
+msgstr "Tipo de _disposição do teclado:"
 
 #: ../setup/setup-gtk.ui.h:9
 msgid "Whether you show the keyboard layout or not"
-msgstr ""
+msgstr "Se deseja mostrar a disposição do teclado ou não"
 
 #: ../setup/setup-gtk.ui.h:10
 msgid "<b>Default Appearance</b>"
-msgstr ""
+msgstr "<b>Aparência padrão</b>"
 
 #: ../setup/setup-gtk.ui.h:11
 msgid "<b>Keyboard Only Appearance</b>"
-msgstr ""
+msgstr "<b>Aparência apenas do teclado</b>"
 
 #: ../setup/setup-gtk.ui.h:12
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 #: ../setup/setup-gtk.ui.h:13
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 #: ../setup/setup-gtk.ui.h:14
 msgid "_Apply"
-msgstr ""
+msgstr "_Aplicar"
 
 #: ../setup/setup-gtk.ui.h:15
 msgid "_Cancel"
-msgstr ""
+msgstr "_Cancelar"
 
 #: ../setup/setup-gtk.ui.h:16
 msgid "_OK"
-msgstr ""
+msgstr "_OK"
 
 #: ../setup/setup-gtk.ui.h:17
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmar"
 
 #: ../setup/setup-gtk.ui.h:18
 msgid "Are you sure to close Setup?"
-msgstr ""
+msgstr "Tem certeza que deseja fechar a configuração?"
 
 #: ../setup/setup-gtk.ui.h:19
 msgid "Are you sure to close Setup without saving configure?"
-msgstr ""
+msgstr "Tem certeza que deseja fechar a configuração sem salvar?"
 
 #: ../setup/setup-gtk.ui.h:20
 msgid "The input pad engine for IBus platform"
-msgstr ""
+msgstr "O motor de painel de entrada para a plataforma IBus"
 
 #: ../setup/setup-gtk.ui.h:21
 msgid "translator_credits"
