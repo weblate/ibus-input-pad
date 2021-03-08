@@ -1,48 +1,50 @@
 # French translations for ibus-input-pad
 # Copyright (C) 2010-2012 Takao Fujiwara <takao.fujiwara1@gmail.com>
 # This file is distributed under the same license as the ibus-input-pad package.
-#
+# Julien Humbert <julroy67@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: ibus-input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/entry\n"
 "POT-Creation-Date: 2014-04-18 14:45+0900\n"
-"PO-Revision-Date: 2010-05-13 03:08+0900\n"
-"Last-Translator: Takao Fujiwara <takao.fujiwara1@gmail.com>\n"
-"Language-Team: French\n"
+"PO-Revision-Date: 2020-01-13 12:15+0000\n"
+"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
+"Language-Team: French <https://translate.stg.fedoraproject.org/projects/"
+"ibus-input-pad/master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.10.1\n"
 
 #: ../engine/engine.c:181 ../engine/engine.c:182
 msgid "Launch Input Pad"
-msgstr ""
+msgstr "Lancer Input Pad"
 
 #: ../engine/engine.c:193 ../engine/engine.c:194 ../engine/engine.c:352
 msgid "Show Input Pad"
-msgstr ""
+msgstr "Afficher Input Pad"
 
 #: ../engine/engine.c:203 ../engine/engine.c:204
 msgid "Show Input Pad (Keyboard Only)"
-msgstr ""
+msgstr "Afficher Input Pad (Clavier uniquement)"
 
 #: ../engine/engine.c:215
 msgid "Setup Input Pad"
-msgstr ""
+msgstr "Configurer Input Pad"
 
 #: ../engine/engine.c:216
 msgid "Configure Input Pad"
-msgstr ""
+msgstr "Configurer Input Pad"
 
 #: ../engine/engine.c:350
 msgid "Hide Input Pad"
-msgstr ""
+msgstr "Masquer Input Pad"
 
 #: ../engine/main.c:56 ../engine/main.c:65 ../engine/main.c:66
 msgid "Input Pad"
-msgstr ""
+msgstr "Input Pad"
 
 #: ../setup/ibus-setup-input-pad.desktop.in.in.h:1
 msgid "IBus Input Pad Setup"
@@ -54,63 +56,63 @@ msgstr ""
 
 #: ../setup/setup-gtk.c:360 ../setup/setup-gtk.ui.h:4
 msgid "Default"
-msgstr ""
+msgstr "Par défaut"
 
 #: ../setup/setup-gtk.c:394
 msgid "Keyboard _Theme:"
-msgstr ""
+msgstr "_Thème du clavier :"
 
 #: ../setup/setup-gtk.c:397
 msgid "Which theme you choose in kbdui modules"
-msgstr ""
+msgstr "Thème à utiliser dans les modules kbdui"
 
 #: ../setup/setup-gtk.ui.h:1
 msgid "Nothing"
-msgstr ""
+msgstr "Aucun"
 
 #: ../setup/setup-gtk.ui.h:2
 msgid "Custom"
-msgstr ""
+msgstr "Personnalisé"
 
 #: ../setup/setup-gtk.ui.h:3
 msgid "All"
-msgstr ""
+msgstr "Tous"
 
 #: ../setup/setup-gtk.ui.h:5
 msgid "IBus-Input-Pad Setup"
-msgstr ""
+msgstr "Paramètres d’IBus Input Pad"
 
 #: ../setup/setup-gtk.ui.h:6
 msgid "_Character Table Type:"
-msgstr ""
+msgstr "Type de table de _caractères :"
 
 #: ../setup/setup-gtk.ui.h:7
 msgid "Whether you show the character table or not"
-msgstr ""
+msgstr "Afficher ou masquer la table de caractères"
 
 #: ../setup/setup-gtk.ui.h:8
 msgid "_Keyboard Layout Type:"
-msgstr ""
+msgstr "Type de _disposition clavier :"
 
 #: ../setup/setup-gtk.ui.h:9
 msgid "Whether you show the keyboard layout or not"
-msgstr ""
+msgstr "Afficher ou masquer la disposition clavier"
 
 #: ../setup/setup-gtk.ui.h:10
 msgid "<b>Default Appearance</b>"
-msgstr ""
+msgstr "<b>Apparence par défaut</b>"
 
 #: ../setup/setup-gtk.ui.h:11
 msgid "<b>Keyboard Only Appearance</b>"
-msgstr ""
+msgstr "<b>Afficher uniquement le clavier</b>"
 
 #: ../setup/setup-gtk.ui.h:12
 msgid "General"
-msgstr ""
+msgstr "Paramètres généraux"
 
 #: ../setup/setup-gtk.ui.h:13
 msgid "About"
-msgstr ""
+msgstr "À propos"
 
 #: ../setup/setup-gtk.ui.h:14
 msgid "_Apply"
@@ -126,20 +128,20 @@ msgstr ""
 
 #: ../setup/setup-gtk.ui.h:17
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmer"
 
 #: ../setup/setup-gtk.ui.h:18
 msgid "Are you sure to close Setup?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir fermer la configuration ?"
 
 #: ../setup/setup-gtk.ui.h:19
 msgid "Are you sure to close Setup without saving configure?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir fermer la configuration sans enregistrer ?"
 
 #: ../setup/setup-gtk.ui.h:20
 msgid "The input pad engine for IBus platform"
-msgstr ""
+msgstr "Le moteur d’Input Pad pour la plateforme IBus"
 
 #: ../setup/setup-gtk.ui.h:21
 msgid "translator_credits"
-msgstr ""
+msgstr "Julien Humbert <julroy67@gmail.com>"
