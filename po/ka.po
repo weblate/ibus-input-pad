@@ -3,19 +3,23 @@
 # This file is distributed under the same license as the ibus-input-pad package.
 #
 # Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: ibus-input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/entry\n"
 "POT-Creation-Date: 2014-04-18 14:45+0900\n"
-"PO-Revision-Date: 2011-03-08 11:40+0900\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-01 16:18+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/ibus-"
+"input-pad/master/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #: ../engine/engine.c:181 ../engine/engine.c:182
 msgid "Launch Input Pad"
@@ -55,7 +59,7 @@ msgstr ""
 
 #: ../setup/setup-gtk.c:360 ../setup/setup-gtk.ui.h:4
 msgid "Default"
-msgstr ""
+msgstr "ნაგულისხმევი"
 
 #: ../setup/setup-gtk.c:394
 msgid "Keyboard _Theme:"
@@ -67,15 +71,15 @@ msgstr ""
 
 #: ../setup/setup-gtk.ui.h:1
 msgid "Nothing"
-msgstr ""
+msgstr "არაფერი"
 
 #: ../setup/setup-gtk.ui.h:2
 msgid "Custom"
-msgstr ""
+msgstr "მორგებული"
 
 #: ../setup/setup-gtk.ui.h:3
 msgid "All"
-msgstr ""
+msgstr "ყველა"
 
 #: ../setup/setup-gtk.ui.h:5
 msgid "IBus-Input-Pad Setup"
@@ -107,27 +111,27 @@ msgstr ""
 
 #: ../setup/setup-gtk.ui.h:12
 msgid "General"
-msgstr ""
+msgstr "ზოგადი"
 
 #: ../setup/setup-gtk.ui.h:13
 msgid "About"
-msgstr ""
+msgstr "შესახებ"
 
 #: ../setup/setup-gtk.ui.h:14
 msgid "_Apply"
-msgstr ""
+msgstr "გ_ადატარება"
 
 #: ../setup/setup-gtk.ui.h:15
 msgid "_Cancel"
-msgstr ""
+msgstr "_გაუქმება"
 
 #: ../setup/setup-gtk.ui.h:16
 msgid "_OK"
-msgstr ""
+msgstr "_OK"
 
 #: ../setup/setup-gtk.ui.h:17
 msgid "Confirm"
-msgstr ""
+msgstr "დადასტურება"
 
 #: ../setup/setup-gtk.ui.h:18
 msgid "Are you sure to close Setup?"
