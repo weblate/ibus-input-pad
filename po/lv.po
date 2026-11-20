@@ -1,0 +1,149 @@
+# Source translations for ibus-input-pad
+# Copyright (C) 2010-2014 Takao Fujiwara <takao.fujiwara1@gmail.com>
+# This file is distributed under the same license as the ibus-input-pad package.
+#
+# Rihards Prieditis <rprieditis@gmail.com>, 2026.
+msgid ""
+msgstr ""
+"Project-Id-Version: ibus-input-pad HEAD\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/entry\n"
+"POT-Creation-Date: 2014-04-18 14:45+0900\n"
+"PO-Revision-Date: 2026-11-20 17:18+0000\n"
+"Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian <https://translate.fedoraproject.org/projects/ibus-"
+"input-pad/master/lv/>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
+"19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"X-Generator: Weblate 2026.11.2\n"
+
+#: ../engine/engine.c:181 ../engine/engine.c:182
+msgid "Launch Input Pad"
+msgstr "Palaist ievades paliktni"
+
+#: ../engine/engine.c:193 ../engine/engine.c:194 ../engine/engine.c:352
+msgid "Show Input Pad"
+msgstr "Rādīt ievades paliktni"
+
+#: ../engine/engine.c:203 ../engine/engine.c:204
+msgid "Show Input Pad (Keyboard Only)"
+msgstr "Rādīt ievades paliktni (tikai tastatūra)"
+
+#: ../engine/engine.c:215
+msgid "Setup Input Pad"
+msgstr "Iestatīt ievades paliktni"
+
+#: ../engine/engine.c:216
+msgid "Configure Input Pad"
+msgstr "Konfigurēt ievades paliktni"
+
+#: ../engine/engine.c:350
+msgid "Hide Input Pad"
+msgstr "Slēpt ievades paliktni"
+
+#: ../engine/main.c:56 ../engine/main.c:65 ../engine/main.c:66
+msgid "Input Pad"
+msgstr "Ievades paliktnis"
+
+#: ../setup/ibus-setup-input-pad.desktop.in.in.h:1
+msgid "IBus Input Pad Setup"
+msgstr "IBus ievades paliktņa iestatīšana"
+
+#: ../setup/ibus-setup-input-pad.desktop.in.in.h:2
+msgid "Set up IBus Input Pad engine"
+msgstr "Iestatīt IBus ievades paliktņa dzinēju"
+
+#: ../setup/setup-gtk.c:360 ../setup/setup-gtk.ui.h:4
+msgid "Default"
+msgstr "Noklusējums"
+
+#: ../setup/setup-gtk.c:394
+msgid "Keyboard _Theme:"
+msgstr "Tastatūras _motīvs:"
+
+#: ../setup/setup-gtk.c:397
+msgid "Which theme you choose in kbdui modules"
+msgstr "Kuru motīvu izvēlaties kbdui moduļos"
+
+#: ../setup/setup-gtk.ui.h:1
+msgid "Nothing"
+msgstr "Nekas"
+
+#: ../setup/setup-gtk.ui.h:2
+msgid "Custom"
+msgstr "Pielāgots"
+
+#: ../setup/setup-gtk.ui.h:3
+msgid "All"
+msgstr "Viss"
+
+#: ../setup/setup-gtk.ui.h:5
+msgid "IBus-Input-Pad Setup"
+msgstr "IBus-Input-Pad iestatīšana"
+
+#: ../setup/setup-gtk.ui.h:6
+msgid "_Character Table Type:"
+msgstr "_Rakstzīmju tabulas tips:"
+
+#: ../setup/setup-gtk.ui.h:7
+msgid "Whether you show the character table or not"
+msgstr "Vai rādīt rakstzīmju tabulu"
+
+#: ../setup/setup-gtk.ui.h:8
+msgid "_Keyboard Layout Type:"
+msgstr "_Tastatūras izkārtojuma tips:"
+
+#: ../setup/setup-gtk.ui.h:9
+msgid "Whether you show the keyboard layout or not"
+msgstr "Vai rādīt tastatūras izkārtojumu"
+
+#: ../setup/setup-gtk.ui.h:10
+msgid "<b>Default Appearance</b>"
+msgstr "<b>Noklusējuma izskats</b>"
+
+#: ../setup/setup-gtk.ui.h:11
+msgid "<b>Keyboard Only Appearance</b>"
+msgstr "<b>Izskats „tikai tastatūra”</b>"
+
+#: ../setup/setup-gtk.ui.h:12
+msgid "General"
+msgstr "Vispārīgi"
+
+#: ../setup/setup-gtk.ui.h:13
+msgid "About"
+msgstr "Par"
+
+#: ../setup/setup-gtk.ui.h:14
+msgid "_Apply"
+msgstr "_Pielietot"
+
+#: ../setup/setup-gtk.ui.h:15
+msgid "_Cancel"
+msgstr "_Atcelt"
+
+#: ../setup/setup-gtk.ui.h:16
+msgid "_OK"
+msgstr "_Labi"
+
+#: ../setup/setup-gtk.ui.h:17
+msgid "Confirm"
+msgstr "Apstiprināt"
+
+#: ../setup/setup-gtk.ui.h:18
+msgid "Are you sure to close Setup?"
+msgstr "Vai aizvērt iestatīšanu?"
+
+#: ../setup/setup-gtk.ui.h:19
+msgid "Are you sure to close Setup without saving configure?"
+msgstr "Vai aizvērt iestatīšanu, nesaglabājot konfigurāciju?"
+
+#: ../setup/setup-gtk.ui.h:20
+msgid "The input pad engine for IBus platform"
+msgstr "Ievades paliktņa dzinējs IBus platformai"
+
+#: ../setup/setup-gtk.ui.h:21
+msgid "translator_credits"
+msgstr "Rihards Priedītis"
