@@ -9,16 +9,17 @@ msgstr ""
 "Project-Id-Version: ibus-input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/entry\n"
 "POT-Creation-Date: 2014-04-18 14:45+0900\n"
-"PO-Revision-Date: 2025-12-10 18:58+0000\n"
-"Last-Translator: Emilio Herrera <ehespinosa57@gmail.com>\n"
-"Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
-"ibus-input-pad/master/es/>\n"
+"PO-Revision-Date: 2025-12-17 22:24+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
+"Language-Team: Spanish <https://translate.fedoraproject.org/projects/ibus-"
+"input-pad/master/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 5.15\n"
 
 #: ../engine/engine.c:181 ../engine/engine.c:182
 msgid "Launch Input Pad"
@@ -42,39 +43,39 @@ msgstr "Configurar Panel de Entrada"
 
 #: ../engine/engine.c:350
 msgid "Hide Input Pad"
-msgstr ""
+msgstr "Ocultar panel de entrada"
 
 #: ../engine/main.c:56 ../engine/main.c:65 ../engine/main.c:66
 msgid "Input Pad"
-msgstr ""
+msgstr "Panel de entrada"
 
 #: ../setup/ibus-setup-input-pad.desktop.in.in.h:1
 msgid "IBus Input Pad Setup"
-msgstr ""
+msgstr "Configuración del panel de entrada de IBus"
 
 #: ../setup/ibus-setup-input-pad.desktop.in.in.h:2
 msgid "Set up IBus Input Pad engine"
-msgstr ""
+msgstr "Configurar motor del panel de entrada de IBus"
 
 #: ../setup/setup-gtk.c:360 ../setup/setup-gtk.ui.h:4
 msgid "Default"
-msgstr ""
+msgstr "Predeterminado"
 
 #: ../setup/setup-gtk.c:394
 msgid "Keyboard _Theme:"
-msgstr ""
+msgstr "_Tema de teclado:"
 
 #: ../setup/setup-gtk.c:397
 msgid "Which theme you choose in kbdui modules"
-msgstr ""
+msgstr "Qué tema utilizar en los módulos de kbdui"
 
 #: ../setup/setup-gtk.ui.h:1
 msgid "Nothing"
-msgstr ""
+msgstr "Ninguno"
 
 #: ../setup/setup-gtk.ui.h:2
 msgid "Custom"
-msgstr ""
+msgstr "Personalizar"
 
 #: ../setup/setup-gtk.ui.h:3
 msgid "All"
@@ -82,47 +83,47 @@ msgstr ""
 
 #: ../setup/setup-gtk.ui.h:5
 msgid "IBus-Input-Pad Setup"
-msgstr ""
+msgstr "Configuración del panel de entrada de IBus"
 
 #: ../setup/setup-gtk.ui.h:6
 msgid "_Character Table Type:"
-msgstr ""
+msgstr "Tipo de tabla de _caracteres:"
 
 #: ../setup/setup-gtk.ui.h:7
 msgid "Whether you show the character table or not"
-msgstr ""
+msgstr "Mostrar u ocultar la tabla de caracteres"
 
 #: ../setup/setup-gtk.ui.h:8
 msgid "_Keyboard Layout Type:"
-msgstr ""
+msgstr "Tipo de _disposición de teclado:"
 
 #: ../setup/setup-gtk.ui.h:9
 msgid "Whether you show the keyboard layout or not"
-msgstr ""
+msgstr "Mostrar u ocultar la disposición del teclado"
 
 #: ../setup/setup-gtk.ui.h:10
 msgid "<b>Default Appearance</b>"
-msgstr ""
+msgstr "<b>Apariencia predeterminada</b>"
 
 #: ../setup/setup-gtk.ui.h:11
 msgid "<b>Keyboard Only Appearance</b>"
-msgstr ""
+msgstr "<b>Mostrar únicamente el teclado</b>"
 
 #: ../setup/setup-gtk.ui.h:12
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: ../setup/setup-gtk.ui.h:13
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: ../setup/setup-gtk.ui.h:14
 msgid "_Apply"
-msgstr ""
+msgstr "_Aplicar"
 
 #: ../setup/setup-gtk.ui.h:15
 msgid "_Cancel"
-msgstr ""
+msgstr "_Cancelar"
 
 #: ../setup/setup-gtk.ui.h:16
 msgid "_OK"
@@ -130,20 +131,22 @@ msgstr ""
 
 #: ../setup/setup-gtk.ui.h:17
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmar"
 
 #: ../setup/setup-gtk.ui.h:18
 msgid "Are you sure to close Setup?"
-msgstr ""
+msgstr "¿Confirma que quiere cerrar la configuración?"
 
 #: ../setup/setup-gtk.ui.h:19
 msgid "Are you sure to close Setup without saving configure?"
-msgstr ""
+msgstr "¿Confirma que quiere cerrar la configuración sin guardar?"
 
 #: ../setup/setup-gtk.ui.h:20
 msgid "The input pad engine for IBus platform"
-msgstr ""
+msgstr "El motor del panel de entrada para la plataforma IBus"
 
 #: ../setup/setup-gtk.ui.h:21
 msgid "translator_credits"
 msgstr ""
+"Fco. Javier F. Serrador <fserrador@proton.me>, 2025\n"
+"Pablo Gonzalo del Campo <pablodc@bigfoot.com>, 2003"
