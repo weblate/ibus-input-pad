@@ -10,8 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/entry\n"
 "POT-Creation-Date: 2014-04-18 14:45+0900\n"
 "PO-Revision-Date: 2026-09-01 16:18+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/ibus-"
 "input-pad/master/ka/>\n"
 "Language: ka\n"
@@ -23,39 +22,39 @@ msgstr ""
 
 #: ../engine/engine.c:181 ../engine/engine.c:182
 msgid "Launch Input Pad"
-msgstr ""
+msgstr "შეყვანის პანელის გაშვება"
 
 #: ../engine/engine.c:193 ../engine/engine.c:194 ../engine/engine.c:352
 msgid "Show Input Pad"
-msgstr ""
+msgstr "შეყვანის პანელის ჩვენება"
 
 #: ../engine/engine.c:203 ../engine/engine.c:204
 msgid "Show Input Pad (Keyboard Only)"
-msgstr ""
+msgstr "შეყვანის პანელის ჩვენება (მხოლოდ კლავიატურა)"
 
 #: ../engine/engine.c:215
 msgid "Setup Input Pad"
-msgstr ""
+msgstr "შეყვანის პანელის მორგება"
 
 #: ../engine/engine.c:216
 msgid "Configure Input Pad"
-msgstr ""
+msgstr "შეყვანის პანელის მორგება"
 
 #: ../engine/engine.c:350
 msgid "Hide Input Pad"
-msgstr ""
+msgstr "შეყვანის პანელის დამალვა"
 
 #: ../engine/main.c:56 ../engine/main.c:65 ../engine/main.c:66
 msgid "Input Pad"
-msgstr ""
+msgstr "შეყვანის პანელი"
 
 #: ../setup/ibus-setup-input-pad.desktop.in.in.h:1
 msgid "IBus Input Pad Setup"
-msgstr ""
+msgstr "IBus-ის შეყვანის პანელის მორგება"
 
 #: ../setup/ibus-setup-input-pad.desktop.in.in.h:2
 msgid "Set up IBus Input Pad engine"
-msgstr ""
+msgstr "IBus-ის შეყვანის პანელის ძრავის მორგება"
 
 #: ../setup/setup-gtk.c:360 ../setup/setup-gtk.ui.h:4
 msgid "Default"
@@ -63,11 +62,11 @@ msgstr "ნაგულისხმევი"
 
 #: ../setup/setup-gtk.c:394
 msgid "Keyboard _Theme:"
-msgstr ""
+msgstr "კლავია_ტურის თემა:"
 
 #: ../setup/setup-gtk.c:397
 msgid "Which theme you choose in kbdui modules"
-msgstr ""
+msgstr "რომელი თემა აირჩიეთ მოდულისთვის kdbui"
 
 #: ../setup/setup-gtk.ui.h:1
 msgid "Nothing"
@@ -83,31 +82,31 @@ msgstr "ყველა"
 
 #: ../setup/setup-gtk.ui.h:5
 msgid "IBus-Input-Pad Setup"
-msgstr ""
+msgstr "IBus-Input-Pad-ის მორგება"
 
 #: ../setup/setup-gtk.ui.h:6
 msgid "_Character Table Type:"
-msgstr ""
+msgstr "სიმბოლოების _ცხრილის ტიპი:"
 
 #: ../setup/setup-gtk.ui.h:7
 msgid "Whether you show the character table or not"
-msgstr ""
+msgstr "იქნება, თუ არა ნაჩვენები სიმბოლოების ცხრილი"
 
 #: ../setup/setup-gtk.ui.h:8
 msgid "_Keyboard Layout Type:"
-msgstr ""
+msgstr "_კლავიატურის განლაგების ტიპი:"
 
 #: ../setup/setup-gtk.ui.h:9
 msgid "Whether you show the keyboard layout or not"
-msgstr ""
+msgstr "იქნება, თუ არა ნაჩვენები კლავიატურის განლაგება"
 
 #: ../setup/setup-gtk.ui.h:10
 msgid "<b>Default Appearance</b>"
-msgstr ""
+msgstr "<b>ნაგულისხმევი გარეგნობა</b>"
 
 #: ../setup/setup-gtk.ui.h:11
 msgid "<b>Keyboard Only Appearance</b>"
-msgstr ""
+msgstr "<b>კლავიატურის გარეგნობა</b>"
 
 #: ../setup/setup-gtk.ui.h:12
 msgid "General"
@@ -135,16 +134,16 @@ msgstr "დადასტურება"
 
 #: ../setup/setup-gtk.ui.h:18
 msgid "Are you sure to close Setup?"
-msgstr ""
+msgstr "მართლა გნებავთ მორგების დახურვა?"
 
 #: ../setup/setup-gtk.ui.h:19
 msgid "Are you sure to close Setup without saving configure?"
-msgstr ""
+msgstr "მართლა გნებავთ მორგების დახურვა კონფიგურაციის შენახვის გარეშე?"
 
 #: ../setup/setup-gtk.ui.h:20
 msgid "The input pad engine for IBus platform"
-msgstr ""
+msgstr "შეყვანის პანელის ძრავა პლატფორმისთვის IBus"
 
 #: ../setup/setup-gtk.ui.h:21
 msgid "translator_credits"
-msgstr ""
+msgstr "Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026"
